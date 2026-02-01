@@ -20,4 +20,6 @@ The image below shows the output of the script when running on a live webcam fee
 - **Left:** Original webcam frame  
 - **Right:** Color-based segmented frame using K-Means clustering
 
+  ![import_cv2_result](import_cv2_output.png)
+
   
