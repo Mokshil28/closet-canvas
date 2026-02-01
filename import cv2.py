@@ -1,3 +1,13 @@
+"""
+It demonstrates real-time image segmentation using K-Means clustering
+as an initial exploration of separating foreground regions from a
+webcam feed.
+
+Current Implementation:
+- Captures live video using OpenCV
+- Applies K-Means clustering for color-based image segmentation
+- Displays original and segmented frames side-by-side
+"""
 import cv2
 import numpy as np
 # 1. Segment catalogue items 2. run clip on catalogue items. 3. segment the user. 4. Run smpl on user 5. Recommend based on query 6. Integrate
